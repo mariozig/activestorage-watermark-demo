@@ -1,24 +1,5 @@
-# README
+# Watermarking Images Using Active Storage
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just a basic rails 5.2 app demoing how to watermark images when using Active Storage for attachments.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A complete blog post describing this is here: [http://ruby.zigzo.com/2018/09/22/watermarking-images-with-active-storage/](http://ruby.zigzo.com/2018/09/22/watermarking-images-with-active-storage/)
